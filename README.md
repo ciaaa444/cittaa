@@ -1,2 +1,1 @@
-# cittaa
-sc bot wa
+
